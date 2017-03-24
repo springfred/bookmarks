@@ -163,7 +163,6 @@
 
 [SQL vs NoSQL: The Differences](https://www.sitepoint.com/sql-vs-nosql-differences/)
 
-[NoSQL vs SQL – Which is a Better Option?]()https://blog.udemy.com/nosql-vs-sql-2/
+[NoSQL vs SQL – Which is a Better Option?](https://blog.udemy.com/nosql-vs-sql-2/)
 
 
-SQL vs NoSQL Database Differences Explained with few Example DB
