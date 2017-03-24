@@ -148,6 +148,8 @@
 
 [面向NoSQL数据存储的Hibernate对象映射](http://www.infoq.com/cn/news/2011/07/hibernateogm)
 
+[Hibernate OGM and MongoDB](http://it.dru.ac.th/o-bookcs/pdfs/65.pdf)
+
 ### license
 
 [licensing - How does Apache 2.0 license differ from GPL? - Stack Overflow](http://stackoverflow.com/questions/2982364/how-does-apache-2-0-license-differ-from-gpl)
