@@ -94,6 +94,9 @@
 
 [How To Set Up Jenkins for Continuous Development Integration on CentOS 7 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-jenkins-for-continuous-development-integration-on-centos-7)
 
+[Continuous Integration 101: How to Run JMeter With Jenkins](https://www.blazemeter.com/blog/continuous-integration-101-how-run-jmeter-jenkins)
+
+
 ###MongoDB
 
 [实战mongodb课程介绍 - 猿天地](http://cxytiandi.com/blog/detail/6280)
