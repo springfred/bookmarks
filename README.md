@@ -31,10 +31,6 @@
 
 [Spring Data](http://projects.spring.io/spring-data/)
 
-[Mycat-doc/各数据库分页语法支持.docx at master · MyCATApache/Mycat-doc · GitHub](https://github.com/MyCATApache/Mycat-doc/blob/master/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/%E5%90%84%E6%95%B0%E6%8D%AE%E5%BA%93%E5%88%86%E9%A1%B5%E8%AF%AD%E6%B3%95%E6%94%AF%E6%8C%81.docx)
-
-[入门指南/Mongodb in Mycat指南.docx · master · luyuwww / Mycat-doc · GitLab](https://gitlab.com/luyuwww/Mycat-doc/blob/master/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/Mongodb in Mycat%E6%8C%87%E5%8D%97.docx)
-
 [GitHub - MyCATApache/Mycat-doc](https://github.com/MyCATApache/Mycat-doc)
 
 [java - Upgrade mongo db to 3.2 in spring boot application - Stack Overflow](http://stackoverflow.com/questions/37077216/upgrade-mongo-db-to-3-2-in-spring-boot-application)
