@@ -73,6 +73,12 @@
 
 [spring boot jpa 连接mycat](http://blog.veryjava.cn/2017/01/05/01/)
 
+[8 种 NoSQL 数据库系统对比](http://blog.jobbole.com/1344/)
+
+[关系数据库还是NoSQL数据库](http://www.infoq.com/cn/news/2011/01/relation-db-nosql-db)
+
+
+
 ###redis cluster
 
 [通过spring配置redis cluster - - ITeye技术网站](http://zk-chs.iteye.com/blog/2292178)
