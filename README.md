@@ -77,7 +77,7 @@
 
 [关系数据库还是NoSQL数据库](http://www.infoq.com/cn/news/2011/01/relation-db-nosql-db)
 
-
+[面向NoSQL数据存储的Hibernate对象映射](http://www.infoq.com/cn/news/2011/07/hibernateogm)
 
 ###redis cluster
 
@@ -155,3 +155,15 @@
 ### license
 
 [licensing - How does Apache 2.0 license differ from GPL? - Stack Overflow](http://stackoverflow.com/questions/2982364/how-does-apache-2-0-license-differ-from-gpl)
+
+### SQL vs NoSQL
+[SQL vs NoSQL Database Differences Explained with few Example DB](http://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/)
+
+[SQL vs NoSQL: How to Choose](https://www.sitepoint.com/sql-vs-nosql-choose/)
+
+[SQL vs NoSQL: The Differences](https://www.sitepoint.com/sql-vs-nosql-differences/)
+
+[NoSQL vs SQL – Which is a Better Option?]()https://blog.udemy.com/nosql-vs-sql-2/
+
+
+SQL vs NoSQL Database Differences Explained with few Example DB
