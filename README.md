@@ -96,6 +96,7 @@
 
 [实战mongodb课程介绍 - 猿天地](http://cxytiandi.com/blog/detail/6280)
 
+
 ###MyCat
 
 [MYCAT介绍(转) - baxk2001 - 博客园](http://www.cnblogs.com/baxk/p/5733931.html)
@@ -144,6 +145,8 @@
 [How to Manage Data Persistence with MongoDB and JPA - Developer.com](http://www.developer.com/java/data/how-to-manage-data-persistence-with-mongodb-and-jpa.html)
 
 [NoSQL with Hibernate OGM - Part one: Persisting your first Entities](http://blog.eisele.net/2015/01/nosql-with-hibernate-ogm-part-one.html)
+
+[面向NoSQL数据存储的Hibernate对象映射](http://www.infoq.com/cn/news/2011/07/hibernateogm)
 
 ### license
 
