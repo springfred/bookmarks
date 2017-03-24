@@ -74,4 +74,9 @@
 [Spring Redis Cache Manager Example](http://memorynotfound.com/spring-redis-cache-manager-example/)
 
 
+###redis cluster
+
+[通过spring配置redis cluster - - ITeye技术网站](http://zk-chs.iteye.com/blog/2292178)
+
+[redis cluster集群搭建 - - ITeye技术网站](http://zk-chs.iteye.com/blog/2285322)
 
