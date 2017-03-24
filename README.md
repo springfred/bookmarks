@@ -73,6 +73,9 @@
 
 [Spring Redis Cache Manager Example](http://memorynotfound.com/spring-redis-cache-manager-example/)
 
+[八套java架构师、集群、高可用、高可扩展、高性能、高并发、性能优化、Spring boot、Dubbo、Redis、ActiveMQ、Nginx、Mycat、Netty、Jvm大型分布式项目实战视频-echojb.com](http://www.echojb.com/news/2017/03/05/343157.html)
+
+[spring boot jpa 连接mycat](http://blog.veryjava.cn/2017/01/05/01/)
 
 ###redis cluster
 
@@ -80,3 +83,68 @@
 
 [redis cluster集群搭建 - - ITeye技术网站](http://zk-chs.iteye.com/blog/2285322)
 
+
+###CI
+
+[Continuous Integration and Delivery of Microservices using Jenkins CI, Docker Machine, and Docker Compose | Programmatic Ponderings](https://programmaticponderings.com/2015/06/27/continuous-integration-and-delivery-of-microservices-using-jenkins-ci-docker-machine-and-docker-compose/)
+
+[docker-compose and Jenkins | - Softwaretester -](http://softwaretester.info/docker-compose-and-jenkins/)
+
+[How To Set Up Jenkins for Continuous Development Integration on CentOS 7 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-jenkins-for-continuous-development-integration-on-centos-7)
+
+###MongoDB
+
+[实战mongodb课程介绍 - 猿天地](http://cxytiandi.com/blog/detail/6280)
+
+###MyCat
+
+[MYCAT介绍(转) - baxk2001 - 博客园](http://www.cnblogs.com/baxk/p/5733931.html)
+
+[mycat简单介绍及其原理_落魄王公_新浪博客](http://blog.sina.com.cn/s/blog_64fe91390102wud2.html)
+
+[| MYCAT官方网站—中国第一开源分布式数据库中间件](http://www.mycat.org.cn/)
+
+[net Core 使用MyCat分布式数据库，实现读写分离 - 博客吧](http://www.blogs8.cn/posts/AlbPf20)
+
+[开源分布式数据库中间件mycat - 老男孩教育博客](http://blog.oldboyedu.com/mysql-mycat/)
+
+[mycat 分页慢原理解析、mycat跨事务解惑、mycat注解调用存储过程分析 - MySQL - 博客频道 - CSDN.NET](http://blog.csdn.net/mchdba/article/details/50719120)
+
+###Java Persistence Framework
+
+[JAVA面试中问及HIBERNATE与 MYBATIS的对比，在这里做一下总结 - 惠众益自 - 博客园](http://www.cnblogs.com/inspurhaitian/p/4647485.html)
+
+[(*´∇｀*)被你发现啦~ JOOQ 3.8.2 使用 教程：从入门到提高 | Cat's Blog](https://amao12580.github.io/post/2016/04/JOOQ-from-entry-to-improve/)
+
+[面向Java对象查询 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E9%9D%A2%E5%90%91Java%E5%AF%B9%E8%B1%A1%E6%9F%A5%E8%AF%A2)
+
+[QueryDSL学习笔记 - Hello, JavaER - ITeye技术网站](http://hellojavaer.iteye.com/blog/1462489)
+
+[【持久化框架】Mybatis与Hibernate的详细对比 - 努力+坚持，而且还很年轻 - 博客频道 - CSDN.NET](http://blog.csdn.net/jiuqiyuliang/article/details/45378065)
+
+[JPA框架比较](http://www.infoq.com/cn/news/2008/01/16?utm_source=infoq_en&utm_medium=link_on_en_item&utm_campaign=item_in_other_langs)
+
+[Adopting a Java Persistence Framework: Which, W... | Oracle Community](https://community.oracle.com/docs/DOC-983187)
+
+[JDBC vs Hibernate vs iBATIS vs S2DAO (vs TopLink)](http://www5b.biglobe.ne.jp/~taka_2/jclass/ORMapper/)
+
+[Javaフレームワーク調査2015 - Spring編 - いろんなフレームワークを渡り歩くプログラマの日記](http://aoiso.hatenablog.com/entry/2015/10/09/182320)
+
+[JPA with HibernateとMyBatisのどちらを採用すべきか - 記憶のくずかご](http://bbook.hatenablog.jp/entry/2015/02/15/183946)
+
+
+###Hibernate OGM
+
+[MongoDB with Hibernate ORM « IT Experts](https://itexpertsconsultant.wordpress.com/2016/02/27/mongodb-with-hibernate-orm/)
+
+[What's the best Java ORM / persistence for MongoDB? - Quora](https://www.quora.com/Whats-the-best-Java-ORM-persistence-for-MongoDB)
+
+[Using native queries in your Hibernate OGM - MongoDB for Java Developers [Book]](https://www.safaribooksonline.com/library/view/mongodb-for-java/9781785280276/ch05s04.html)
+
+[How to Manage Data Persistence with MongoDB and JPA - Developer.com](http://www.developer.com/java/data/how-to-manage-data-persistence-with-mongodb-and-jpa.html)
+
+[NoSQL with Hibernate OGM - Part one: Persisting your first Entities](http://blog.eisele.net/2015/01/nosql-with-hibernate-ogm-part-one.html)
+
+### license
+
+[licensing - How does Apache 2.0 license differ from GPL? - Stack Overflow](http://stackoverflow.com/questions/2982364/how-does-apache-2-0-license-differ-from-gpl)
