@@ -172,17 +172,27 @@
 
 
 现象：当processes 配置过大，一般processes 在800以上时，当业务繁忙时，可能会报文件句柄不足的现象，需要修改file-max核心参数的大小
+
 root 用户
+
 编辑
+
 /etc/sysctl.conf 文件
+
 fs.file-max=655360
+
 sysctl -p 应用
+
 再用
+
 sysctl -a | grep file
+
 查看fs.file-max的结果
 
 
 sysctl -w fs.file-max=6553600;
+
 sed -i "/fs.file-max/d" /etc/sysctl.conf
+
 echo "fs.file-max = 6553600" >> /etc/sysctl.conf
 
